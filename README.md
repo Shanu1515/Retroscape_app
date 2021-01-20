@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/shubham64mehta/Codex-Retroscape.git
+https://github.com/Shanu1515/Retroscape_app.git
 ```
 
 **Step 2:**
